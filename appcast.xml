@@ -6,6 +6,15 @@
     <description>Meridian updates</description>
     <language>en</language>
     <item>
+      <title>0.2.0</title>
+      <pubDate>Mon, 12 Oct 2026 15:43:31 GMT</pubDate>
+      <sparkle:version>293</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;First public release: a notarized download for Mac, with automatic updates. Updates now come from baileywickham.com/meridian-site.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/baileywickham/meridian-site/releases/download/v0.2.0/Meridian-0.2.0.dmg" type="application/octet-stream" length="10090008" sparkle:edSignature="m8kimADS0mUMQ8iRdHWE7L5TQk1W8KntiUiOkRYCK+JoYMmZNXUX8ER4g7Yis+TCT6x/5VZx0JJbnx0UyvjnCQ==" />
+    </item>
+    <item>
       <title>0.1.0</title>
       <pubDate>Sat, 10 Oct 2026 19:57:13 GMT</pubDate>
       <sparkle:version>38</sparkle:version>
